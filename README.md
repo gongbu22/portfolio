@@ -38,7 +38,7 @@ ITAM 시스템의 운영 및 유지보수를 담당하며 데이터 오류 분�
 <br/>
 
 ## ✏️Education Projects
-[📜학원 교육 프로젝트 상세 보기](./projects/edu-projects.pdf)
+[📜학원 교육 프로젝트 상세 보기(PDF)](https://raw.githubusercontent.com/gongbu22/portfolio/main/projects/edu-projects.pdf)
 
 ### 1. 주차 시스템
 

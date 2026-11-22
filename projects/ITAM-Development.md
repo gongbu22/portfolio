@@ -6,7 +6,7 @@
 |---|---|
 | 프로젝트명 | ITAM 자산관리시스템 TO-BE 전환 구축 |
 | 수행 기간 | 2025.12 ~ 2026.06 |
-| 담당 업무 | ITAM 화면 및 기능 구현, SQL 변환, SLA 통계 시스템화 |
+| 담당 업무 | ITAM 화면 재구성 및 기능 구현, SLA 통계 시스템화 |
 | 기술 스택 | E-GENE(No-code 플랫폼), JavaScript, JSP, Java, MariaDB |
 | 협업 도구 | GitLab |
 
